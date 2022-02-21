@@ -1,0 +1,19 @@
+C:\Users\Erick\AppData\Local\Temporary Projects\201800986_CUBRECAMAS\bin\Debug\201800986_CUBRECAMAS.exe
+C:\Users\Erick\AppData\Local\Temporary Projects\201800986_CUBRECAMAS\bin\Debug\201800986_CUBRECAMAS.pdb
+C:\Users\Erick\AppData\Local\Temporary Projects\201800986_CUBRECAMAS\bin\Debug\201800986_CUBRECAMAS.xml
+C:\Users\Erick\AppData\Local\Temporary Projects\201800986_CUBRECAMAS\obj\x86\Debug\_201800986_CUBRECAMAS.Form1.resources
+C:\Users\Erick\AppData\Local\Temporary Projects\201800986_CUBRECAMAS\obj\x86\Debug\_201800986_CUBRECAMAS.Resources.resources
+C:\Users\Erick\AppData\Local\Temporary Projects\201800986_CUBRECAMAS\obj\x86\Debug\201800986_CUBRECAMAS.vbproj.GenerateResource.Cache
+C:\Users\Erick\AppData\Local\Temporary Projects\201800986_CUBRECAMAS\obj\x86\Debug\201800986_CUBRECAMAS.exe
+C:\Users\Erick\AppData\Local\Temporary Projects\201800986_CUBRECAMAS\obj\x86\Debug\201800986_CUBRECAMAS.xml
+C:\Users\Erick\AppData\Local\Temporary Projects\201800986_CUBRECAMAS\obj\x86\Debug\201800986_CUBRECAMAS.pdb
+C:\Users\Erick\Desktop\1er Semestre 2022\Programacion de computadoras 2\Programas\201800986_TAREAP1\201800986_CUBRECAMAS\201800986_CUBRECAMAS\obj\x86\Debug\201800986_CUBRECAMAS.exe
+C:\Users\Erick\Desktop\1er Semestre 2022\Programacion de computadoras 2\Programas\201800986_TAREAP1\201800986_CUBRECAMAS\201800986_CUBRECAMAS\obj\x86\Debug\201800986_CUBRECAMAS.xml
+C:\Users\Erick\Desktop\1er Semestre 2022\Programacion de computadoras 2\Programas\201800986_TAREAP1\201800986_CUBRECAMAS\201800986_CUBRECAMAS\obj\x86\Debug\201800986_CUBRECAMAS.pdb
+C:\Users\Erick\Desktop\1er Semestre 2022\Programacion de computadoras 2\Programas\201800986_TAREAP1\201800986_CUBRECAMAS\201800986_CUBRECAMAS\bin\Debug\201800986_CUBRECAMAS.exe
+C:\Users\Erick\Desktop\1er Semestre 2022\Programacion de computadoras 2\Programas\201800986_TAREAP1\201800986_CUBRECAMAS\201800986_CUBRECAMAS\bin\Debug\201800986_CUBRECAMAS.pdb
+C:\Users\Erick\Desktop\1er Semestre 2022\Programacion de computadoras 2\Programas\201800986_TAREAP1\201800986_CUBRECAMAS\201800986_CUBRECAMAS\bin\Debug\201800986_CUBRECAMAS.xml
+C:\Users\Erick\Desktop\1er Semestre 2022\Programacion de computadoras 2\Programas\201800986_TAREAP1\201800986_CUBRECAMAS\201800986_CUBRECAMAS\obj\x86\Debug\_201800986_CUBRECAMAS.Form1.resources
+C:\Users\Erick\Desktop\1er Semestre 2022\Programacion de computadoras 2\Programas\201800986_TAREAP1\201800986_CUBRECAMAS\201800986_CUBRECAMAS\obj\x86\Debug\_201800986_CUBRECAMAS.Resources.resources
+C:\Users\Erick\Desktop\1er Semestre 2022\Programacion de computadoras 2\Programas\201800986_TAREAP1\201800986_CUBRECAMAS\201800986_CUBRECAMAS\obj\x86\Debug\201800986_CUBRECAMAS.vbproj.GenerateResource.Cache
+C:\Users\Erick\Desktop\1er Semestre 2022\Programacion de computadoras 2\Programas\201800986_TAREAP1\201800986_CUBRECAMAS\201800986_CUBRECAMAS\obj\x86\Debug\_201800986_CUBRECAMAS.Form2.resources
