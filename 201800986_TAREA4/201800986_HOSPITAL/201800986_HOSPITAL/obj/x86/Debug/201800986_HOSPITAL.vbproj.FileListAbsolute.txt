@@ -1,0 +1,10 @@
+C:\Users\Erick\Desktop\1er Semestre 2022\Programacion de computadoras 2\Programas\201800986_TAREA4\201800986_HOSPITAL\201800986_HOSPITAL\bin\Debug\201800986_HOSPITAL.exe
+C:\Users\Erick\Desktop\1er Semestre 2022\Programacion de computadoras 2\Programas\201800986_TAREA4\201800986_HOSPITAL\201800986_HOSPITAL\bin\Debug\201800986_HOSPITAL.pdb
+C:\Users\Erick\Desktop\1er Semestre 2022\Programacion de computadoras 2\Programas\201800986_TAREA4\201800986_HOSPITAL\201800986_HOSPITAL\bin\Debug\201800986_HOSPITAL.xml
+C:\Users\Erick\Desktop\1er Semestre 2022\Programacion de computadoras 2\Programas\201800986_TAREA4\201800986_HOSPITAL\201800986_HOSPITAL\obj\x86\Debug\_201800986_HOSPITAL.Form1.resources
+C:\Users\Erick\Desktop\1er Semestre 2022\Programacion de computadoras 2\Programas\201800986_TAREA4\201800986_HOSPITAL\201800986_HOSPITAL\obj\x86\Debug\_201800986_HOSPITAL.Form2.resources
+C:\Users\Erick\Desktop\1er Semestre 2022\Programacion de computadoras 2\Programas\201800986_TAREA4\201800986_HOSPITAL\201800986_HOSPITAL\obj\x86\Debug\_201800986_HOSPITAL.Resources.resources
+C:\Users\Erick\Desktop\1er Semestre 2022\Programacion de computadoras 2\Programas\201800986_TAREA4\201800986_HOSPITAL\201800986_HOSPITAL\obj\x86\Debug\201800986_HOSPITAL.vbproj.GenerateResource.Cache
+C:\Users\Erick\Desktop\1er Semestre 2022\Programacion de computadoras 2\Programas\201800986_TAREA4\201800986_HOSPITAL\201800986_HOSPITAL\obj\x86\Debug\201800986_HOSPITAL.exe
+C:\Users\Erick\Desktop\1er Semestre 2022\Programacion de computadoras 2\Programas\201800986_TAREA4\201800986_HOSPITAL\201800986_HOSPITAL\obj\x86\Debug\201800986_HOSPITAL.xml
+C:\Users\Erick\Desktop\1er Semestre 2022\Programacion de computadoras 2\Programas\201800986_TAREA4\201800986_HOSPITAL\201800986_HOSPITAL\obj\x86\Debug\201800986_HOSPITAL.pdb
