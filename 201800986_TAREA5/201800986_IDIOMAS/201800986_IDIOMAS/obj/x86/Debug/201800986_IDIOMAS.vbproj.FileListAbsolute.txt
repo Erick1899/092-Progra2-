@@ -1,0 +1,9 @@
+C:\Users\Erick\Desktop\1er Semestre 2022\Programacion de computadoras 2\Programas\201800986_TAREA5\201800986_IDIOMAS\201800986_IDIOMAS\bin\Debug\201800986_IDIOMAS.exe
+C:\Users\Erick\Desktop\1er Semestre 2022\Programacion de computadoras 2\Programas\201800986_TAREA5\201800986_IDIOMAS\201800986_IDIOMAS\bin\Debug\201800986_IDIOMAS.pdb
+C:\Users\Erick\Desktop\1er Semestre 2022\Programacion de computadoras 2\Programas\201800986_TAREA5\201800986_IDIOMAS\201800986_IDIOMAS\bin\Debug\201800986_IDIOMAS.xml
+C:\Users\Erick\Desktop\1er Semestre 2022\Programacion de computadoras 2\Programas\201800986_TAREA5\201800986_IDIOMAS\201800986_IDIOMAS\obj\x86\Debug\_201800986_IDIOMAS.Form1.resources
+C:\Users\Erick\Desktop\1er Semestre 2022\Programacion de computadoras 2\Programas\201800986_TAREA5\201800986_IDIOMAS\201800986_IDIOMAS\obj\x86\Debug\_201800986_IDIOMAS.Resources.resources
+C:\Users\Erick\Desktop\1er Semestre 2022\Programacion de computadoras 2\Programas\201800986_TAREA5\201800986_IDIOMAS\201800986_IDIOMAS\obj\x86\Debug\201800986_IDIOMAS.vbproj.GenerateResource.Cache
+C:\Users\Erick\Desktop\1er Semestre 2022\Programacion de computadoras 2\Programas\201800986_TAREA5\201800986_IDIOMAS\201800986_IDIOMAS\obj\x86\Debug\201800986_IDIOMAS.exe
+C:\Users\Erick\Desktop\1er Semestre 2022\Programacion de computadoras 2\Programas\201800986_TAREA5\201800986_IDIOMAS\201800986_IDIOMAS\obj\x86\Debug\201800986_IDIOMAS.xml
+C:\Users\Erick\Desktop\1er Semestre 2022\Programacion de computadoras 2\Programas\201800986_TAREA5\201800986_IDIOMAS\201800986_IDIOMAS\obj\x86\Debug\201800986_IDIOMAS.pdb
