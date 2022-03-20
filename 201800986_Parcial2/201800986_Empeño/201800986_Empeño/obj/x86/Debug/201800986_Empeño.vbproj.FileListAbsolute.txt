@@ -1,0 +1,9 @@
+C:\Users\Erick\Desktop\1er Semestre 2022\Programacion de computadoras 2\Programas\201800986_Parcial2\201800986_Empeño\201800986_Empeño\bin\Debug\201800986_Empeño.exe
+C:\Users\Erick\Desktop\1er Semestre 2022\Programacion de computadoras 2\Programas\201800986_Parcial2\201800986_Empeño\201800986_Empeño\bin\Debug\201800986_Empeño.pdb
+C:\Users\Erick\Desktop\1er Semestre 2022\Programacion de computadoras 2\Programas\201800986_Parcial2\201800986_Empeño\201800986_Empeño\bin\Debug\201800986_Empeño.xml
+C:\Users\Erick\Desktop\1er Semestre 2022\Programacion de computadoras 2\Programas\201800986_Parcial2\201800986_Empeño\201800986_Empeño\obj\x86\Debug\_201800986_Empeño.Form1.resources
+C:\Users\Erick\Desktop\1er Semestre 2022\Programacion de computadoras 2\Programas\201800986_Parcial2\201800986_Empeño\201800986_Empeño\obj\x86\Debug\_201800986_Empeño.Resources.resources
+C:\Users\Erick\Desktop\1er Semestre 2022\Programacion de computadoras 2\Programas\201800986_Parcial2\201800986_Empeño\201800986_Empeño\obj\x86\Debug\201800986_Empeño.vbproj.GenerateResource.Cache
+C:\Users\Erick\Desktop\1er Semestre 2022\Programacion de computadoras 2\Programas\201800986_Parcial2\201800986_Empeño\201800986_Empeño\obj\x86\Debug\201800986_Empeño.exe
+C:\Users\Erick\Desktop\1er Semestre 2022\Programacion de computadoras 2\Programas\201800986_Parcial2\201800986_Empeño\201800986_Empeño\obj\x86\Debug\201800986_Empeño.xml
+C:\Users\Erick\Desktop\1er Semestre 2022\Programacion de computadoras 2\Programas\201800986_Parcial2\201800986_Empeño\201800986_Empeño\obj\x86\Debug\201800986_Empeño.pdb
