@@ -1,0 +1,9 @@
+C:\Users\Erick\Desktop\1er Semestre 2022\Programacion de computadoras 2\Programas\201800986_TAREAP3\201800986_AUTOS\201800986_AUTOS\bin\Debug\201800986_AUTOS.exe
+C:\Users\Erick\Desktop\1er Semestre 2022\Programacion de computadoras 2\Programas\201800986_TAREAP3\201800986_AUTOS\201800986_AUTOS\bin\Debug\201800986_AUTOS.pdb
+C:\Users\Erick\Desktop\1er Semestre 2022\Programacion de computadoras 2\Programas\201800986_TAREAP3\201800986_AUTOS\201800986_AUTOS\bin\Debug\201800986_AUTOS.xml
+C:\Users\Erick\Desktop\1er Semestre 2022\Programacion de computadoras 2\Programas\201800986_TAREAP3\201800986_AUTOS\201800986_AUTOS\obj\x86\Debug\_201800986_AUTOS.Form1.resources
+C:\Users\Erick\Desktop\1er Semestre 2022\Programacion de computadoras 2\Programas\201800986_TAREAP3\201800986_AUTOS\201800986_AUTOS\obj\x86\Debug\_201800986_AUTOS.Resources.resources
+C:\Users\Erick\Desktop\1er Semestre 2022\Programacion de computadoras 2\Programas\201800986_TAREAP3\201800986_AUTOS\201800986_AUTOS\obj\x86\Debug\201800986_AUTOS.vbproj.GenerateResource.Cache
+C:\Users\Erick\Desktop\1er Semestre 2022\Programacion de computadoras 2\Programas\201800986_TAREAP3\201800986_AUTOS\201800986_AUTOS\obj\x86\Debug\201800986_AUTOS.exe
+C:\Users\Erick\Desktop\1er Semestre 2022\Programacion de computadoras 2\Programas\201800986_TAREAP3\201800986_AUTOS\201800986_AUTOS\obj\x86\Debug\201800986_AUTOS.xml
+C:\Users\Erick\Desktop\1er Semestre 2022\Programacion de computadoras 2\Programas\201800986_TAREAP3\201800986_AUTOS\201800986_AUTOS\obj\x86\Debug\201800986_AUTOS.pdb
