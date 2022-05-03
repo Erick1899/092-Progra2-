@@ -1,0 +1,9 @@
+C:\Users\Erick\Desktop\1er Semestre 2022\Programacion de computadoras 2\Programas\201800986_TAREA8\201800986_VUELTAC\201800986_VUELTAC\bin\Debug\201800986_VUELTAC.exe
+C:\Users\Erick\Desktop\1er Semestre 2022\Programacion de computadoras 2\Programas\201800986_TAREA8\201800986_VUELTAC\201800986_VUELTAC\bin\Debug\201800986_VUELTAC.pdb
+C:\Users\Erick\Desktop\1er Semestre 2022\Programacion de computadoras 2\Programas\201800986_TAREA8\201800986_VUELTAC\201800986_VUELTAC\bin\Debug\201800986_VUELTAC.xml
+C:\Users\Erick\Desktop\1er Semestre 2022\Programacion de computadoras 2\Programas\201800986_TAREA8\201800986_VUELTAC\201800986_VUELTAC\obj\x86\Debug\_201800986_VUELTAC.Form1.resources
+C:\Users\Erick\Desktop\1er Semestre 2022\Programacion de computadoras 2\Programas\201800986_TAREA8\201800986_VUELTAC\201800986_VUELTAC\obj\x86\Debug\_201800986_VUELTAC.Resources.resources
+C:\Users\Erick\Desktop\1er Semestre 2022\Programacion de computadoras 2\Programas\201800986_TAREA8\201800986_VUELTAC\201800986_VUELTAC\obj\x86\Debug\201800986_VUELTAC.vbproj.GenerateResource.Cache
+C:\Users\Erick\Desktop\1er Semestre 2022\Programacion de computadoras 2\Programas\201800986_TAREA8\201800986_VUELTAC\201800986_VUELTAC\obj\x86\Debug\201800986_VUELTAC.exe
+C:\Users\Erick\Desktop\1er Semestre 2022\Programacion de computadoras 2\Programas\201800986_TAREA8\201800986_VUELTAC\201800986_VUELTAC\obj\x86\Debug\201800986_VUELTAC.xml
+C:\Users\Erick\Desktop\1er Semestre 2022\Programacion de computadoras 2\Programas\201800986_TAREA8\201800986_VUELTAC\201800986_VUELTAC\obj\x86\Debug\201800986_VUELTAC.pdb
