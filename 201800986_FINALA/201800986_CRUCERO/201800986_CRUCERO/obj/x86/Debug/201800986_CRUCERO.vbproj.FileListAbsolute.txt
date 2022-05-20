@@ -1,0 +1,20 @@
+C:\Users\Erick\AppData\Local\Temporary Projects\201800986_CRUCERO\bin\Debug\201800986_CRUCERO.exe
+C:\Users\Erick\AppData\Local\Temporary Projects\201800986_CRUCERO\bin\Debug\201800986_CRUCERO.pdb
+C:\Users\Erick\AppData\Local\Temporary Projects\201800986_CRUCERO\bin\Debug\201800986_CRUCERO.xml
+C:\Users\Erick\AppData\Local\Temporary Projects\201800986_CRUCERO\obj\x86\Debug\_201800986_CRUCERO.Form1.resources
+C:\Users\Erick\AppData\Local\Temporary Projects\201800986_CRUCERO\obj\x86\Debug\_201800986_CRUCERO.Resources.resources
+C:\Users\Erick\AppData\Local\Temporary Projects\201800986_CRUCERO\obj\x86\Debug\201800986_CRUCERO.vbproj.GenerateResource.Cache
+C:\Users\Erick\AppData\Local\Temporary Projects\201800986_CRUCERO\obj\x86\Debug\201800986_CRUCERO.exe
+C:\Users\Erick\AppData\Local\Temporary Projects\201800986_CRUCERO\obj\x86\Debug\201800986_CRUCERO.xml
+C:\Users\Erick\AppData\Local\Temporary Projects\201800986_CRUCERO\obj\x86\Debug\201800986_CRUCERO.pdb
+C:\Users\Erick\Desktop\1er Semestre 2022\Programacion de computadoras 2\Programas\201800986_FINALA\201800986_CRUCERO\201800986_CRUCERO\obj\x86\Debug\201800986_CRUCERO.exe
+C:\Users\Erick\Desktop\1er Semestre 2022\Programacion de computadoras 2\Programas\201800986_FINALA\201800986_CRUCERO\201800986_CRUCERO\obj\x86\Debug\201800986_CRUCERO.xml
+C:\Users\Erick\Desktop\1er Semestre 2022\Programacion de computadoras 2\Programas\201800986_FINALA\201800986_CRUCERO\201800986_CRUCERO\obj\x86\Debug\201800986_CRUCERO.pdb
+C:\Users\Erick\Desktop\1er Semestre 2022\Programacion de computadoras 2\Programas\201800986_FINALA\201800986_CRUCERO\201800986_CRUCERO\bin\Debug\201800986_CRUCERO.exe
+C:\Users\Erick\Desktop\1er Semestre 2022\Programacion de computadoras 2\Programas\201800986_FINALA\201800986_CRUCERO\201800986_CRUCERO\bin\Debug\201800986_CRUCERO.pdb
+C:\Users\Erick\Desktop\1er Semestre 2022\Programacion de computadoras 2\Programas\201800986_FINALA\201800986_CRUCERO\201800986_CRUCERO\bin\Debug\201800986_CRUCERO.xml
+C:\Users\Erick\Desktop\1er Semestre 2022\Programacion de computadoras 2\Programas\201800986_FINALA\201800986_CRUCERO\201800986_CRUCERO\obj\x86\Debug\_201800986_CRUCERO.Form1.resources
+C:\Users\Erick\Desktop\1er Semestre 2022\Programacion de computadoras 2\Programas\201800986_FINALA\201800986_CRUCERO\201800986_CRUCERO\obj\x86\Debug\_201800986_CRUCERO.Resources.resources
+C:\Users\Erick\Desktop\1er Semestre 2022\Programacion de computadoras 2\Programas\201800986_FINALA\201800986_CRUCERO\201800986_CRUCERO\obj\x86\Debug\201800986_CRUCERO.vbproj.GenerateResource.Cache
+C:\Users\Erick\Desktop\1er Semestre 2022\Programacion de computadoras 2\Programas\201800986_FINALA\201800986_CRUCERO\201800986_CRUCERO\obj\x86\Debug\_201800986_CRUCERO.Form2.resources
+C:\Users\Erick\Desktop\1er Semestre 2022\Programacion de computadoras 2\Programas\201800986_FINALA\201800986_CRUCERO\201800986_CRUCERO\obj\x86\Debug\_201800986_CRUCERO.Form3.resources
